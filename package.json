@@ -1,0 +1,21 @@
+{
+  "name": "playwrightTS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiragbpatel2000/playwrightTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiragbpatel2000/playwrightTS/issues"
+  },
+  "homepage": "https://github.com/chiragbpatel2000/playwrightTS#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
