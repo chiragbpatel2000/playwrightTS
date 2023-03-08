@@ -14,6 +14,7 @@ test.describe.parallel('get user validation api response',()=>{
       console.log(responseBody);
       expect(responseBody.data.id).toBe(2);
       expect(responseBody.data.last_name).toBe('Weaver');
+      expect(responseBody.data.first_name).toEqual('Janet')
     })
 
 });
